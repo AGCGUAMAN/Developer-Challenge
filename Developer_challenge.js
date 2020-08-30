@@ -7,3 +7,5 @@ console.log(`Hola ${nombre} ${primerApellido} ${segundoApellido}`)
 console.log(`Tengo ${edad}`)
 
 var peso = 70
+
+console.log(`Mi peso ${peso} kilos`)
